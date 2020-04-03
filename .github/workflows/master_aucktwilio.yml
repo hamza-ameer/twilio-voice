@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'aucktwilio'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_155174455ab74917ae64c8e4d39eb593 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_80b1e8f9f4da4371a658e048e4530c20 }}
         package: .
